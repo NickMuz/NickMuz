@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Nick.
-    Eu coloquei alguns dos meus projetos nesta conta. Muitos desdes construi durante cursos e experiência como desenvolvedor.
+    Eu coloquei alguns dos meus projetos nesta conta. Muitos desdes, construi durante cursos e experiência como desenvolvedor.
     Muito embora, gostaria de ter adicionado tantos outros dos quais tenho orgulho, contudo, isso não será possível.  
 
 **NickMuz/NickMuz**
