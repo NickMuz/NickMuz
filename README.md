@@ -9,3 +9,4 @@
 - 🌱 Estou determinado em aprender Flutter, Kotlin e Swift.
 - 📫 Podes me encontrar por meio do telefone (81) - 99795-8265, assim como, pelo e-mail nickmuzi@outlook.com
 - 😄 Adoro jogos, pizza e um bom bate-papo com amigos, além de conhecer novos. Entre em contato comigo.
+- 💾 JavaScript, Python, Java . 
